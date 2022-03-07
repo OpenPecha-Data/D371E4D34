@@ -1414,20 +1414,20 @@ annotations:
     reference: ''
     span:
       start: 264506
-      end: 265823
+      end: 265824
     note_ref: 6db238fed7044a54afa3405b4b99d310
   f8858f7da4be4964977bbac67c7c7259:
     imgnum: 236
     reference: ''
     span:
-      start: 265825
-      end: 267140
+      start: 265826
+      end: 267143
     note_ref: 6db238fed7044a54afa3405b4b99d310
   6fd73a4744414a87bb0834ea1976d517:
     imgnum: 237
     reference: ''
     span:
-      start: 267142
+      start: 267145
       end: 268479
     note_ref: 6db238fed7044a54afa3405b4b99d310
   69d5aa5a9c7d4f0f90371195135d3d1c:
